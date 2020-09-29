@@ -1,0 +1,10 @@
+C:\Users\harit\source\repos\Text editor\Text editor\bin\Debug\Text editor.exe.config
+C:\Users\harit\source\repos\Text editor\Text editor\bin\Debug\Text editor.exe
+C:\Users\harit\source\repos\Text editor\Text editor\bin\Debug\Text editor.pdb
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text editor.csprojAssemblyReference.cache
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text editor.csproj.GenerateResource.cache
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text editor.csproj.CoreCompileInputs.cache
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text editor.exe
+C:\Users\harit\source\repos\Text editor\Text editor\obj\Debug\Text editor.pdb
